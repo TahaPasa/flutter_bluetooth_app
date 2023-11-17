@@ -18,6 +18,8 @@ A basic app that scans for bluetooth devices. Connects to HC-06 or HC-05 module 
 <img src="https://github.com/TahaPasa/flutter_bluetooth_app/assets/76007933/d16aded8-61f0-45fb-b494-b15662c77790" width=45% height=45%>
 
 
+## Resource that I've used:
+https://www.youtube.com/watch?v=Fl3tDWzTWk8
 
 
 ## Getting Started
